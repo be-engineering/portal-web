@@ -12,6 +12,10 @@
  * 
  * 
  */
-jQuery(document).ready(function(){
-// nostro codice
-})
+
+ .be-background {
+    background-color: #444644
+ }
+ .be-logo {
+     background-image: ('../assets/svg/logo_transparent.svg')
+ }
