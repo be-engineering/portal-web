@@ -9,12 +9,12 @@
  * @since:2018
  * @see:http://be-engineering.cloud
  *
- * 
+ * color: #444644
  * 
  */
 
  .be-background {
-    background-color: #444644
+    background-color: #444644;
  }
  .be-logo {
      background-image: ('../assets/svg/logo_transparent.svg')
