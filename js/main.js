@@ -12,3 +12,6 @@
  * 
  * 
  */
+jQuery(document).ready(function(){
+// nostro codice
+})
