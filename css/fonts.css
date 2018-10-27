@@ -1,0 +1,77 @@
+/* ===================================================================
+ * fonts.scss
+ *
+ * ------------------------------------------------------------------- */
+
+ @import url('https://fonts.googleapis.com/css?family=Domine');
+
+ /*
+  * metropolis
+ ================================================================================ */
+ @font-face {
+   font-family: "metropolis-bold";
+   src: 
+     url("../assets/fonts/typo/metropolis/metropolis-bold-webfont.woff2") format("woff2"), 
+     url("../assets/fonts/typo/metropolis/metropolis-bold-webfont.woff") format("woff");
+   font-style: normal;
+   font-weight: normal;
+ }
+ 
+ @font-face {
+   font-family: "metropolis-semibold";
+   src: 
+     url("../assets//fonts/typo/metropolis/metropolis-semibold-webfont.woff2") format("woff2"), 
+     url("../assets//fonts/typo/metropolis/metropolis-semibold-webfont.woff") format("woff");
+   font-style: normal;
+   font-weight: normal;
+ }
+ 
+ @font-face {
+   font-family: "metropolis-medium";
+   src: 
+     url("../assets//fonts/typo/metropolis/metropolis-medium-webfont.woff2") format("woff2"), 
+     url("../assets//fonts/typo/metropolis/metropolis-medium-webfont.woff") format("woff");
+   font-style: normal;
+   font-weight: normal;
+ }
+ 
+ @font-face {
+   font-family: "metropolis-regular";
+   src: 
+     url("../assets//fonts/typo/metropolis/metropolis-regular-webfont.woff2") format("woff2"), 
+     url("../assets//fonts/typo/metropolis/metropolis-regular-webfont.woff") format("woff");
+   font-style: normal;
+   font-weight: normal;
+ }
+ 
+ @font-face {
+   font-family: "metropolis-light";
+   src: 
+     url("../assets//fonts/typo/metropolis/metropolis-light-webfont.woff2") format("woff2"), 
+     url("../assets//fonts/typo/metropolis/metropolis-light-webfont.woff") format("woff");
+   font-style: normal;
+   font-weight: normal;
+ }
+ 
+ @font-face {
+   font-family: "metropolis-extralight";
+   src: 
+     url("../assets//fonts/typo/metropolis/metropolis-extralight-webfont.woff2") format("woff2"), 
+     url("../assets//fonts/typo/metropolis/metropolis-extralight-webfont.woff") format("woff");
+   font-style: normal;
+   font-weight: normal;
+ }
+ 
+ @font-face {
+   font-family: "metropolis-italic";
+   src: 
+     url("../assets//fonts/typo/metropolis/metropolis-regularitalic-webfont.woff2") format("woff2"), 
+     url("../assets//fonts/typo/metropolis/metropolis-regularitalic-webfont.woff") format("woff");
+   font-style: normal;
+   font-weight: normal;
+ }
+ 
+ /*# sourceMappingURL=fonts.css.map */
+ 
+ 
+ 
