@@ -161,20 +161,20 @@ body {
 *************************************/
 
     .main-color {
-        color: #3498DB !important;
+        color: #444644 !important;
     }
 
     .main-background-color {
-        background-color: #3498DB !important;
+        background-color: #444644 !important;
     }
 
     .main-before-background-color::before,
     .main-before-background-color::after {
-        background-color: #3498DB !important;
+        background-color: #444644 !important;
     }
 
     .main-border-color {
-        border-color: #3498DB !important;
+        border-color: #444644 !important;
     }
 
 /**************************************
@@ -237,7 +237,7 @@ body {
     }
 
     #preloader {
-        background-color: #050505;
+        background-color: #000000;
     }
 
     .overlay {
@@ -253,7 +253,7 @@ body {
     }
 
     .info {
-        background-color: #111111;
+        background-color: #000000;
     }
 
     .info-menu-icon::before,
@@ -277,7 +277,7 @@ body {
     input:-webkit-autofill:hover,
     input:-webkit-autofill:focus
     input:-webkit-autofill {
-        -webkit-text-fill-color: #3498DB;
+        -webkit-text-fill-color: #444644;
         transition: background-color 5000s ease-in-out 0s;
     }
 
