@@ -161,20 +161,20 @@ body {
 *************************************/
 
     .main-color {
-        color: #3498DB !important;
+        color: #444644 !important;
     }
 
     .main-background-color {
-        background-color: #3498DB !important;
+        background-color: #444644 !important;
     }
 
     .main-before-background-color::before,
     .main-before-background-color::after {
-        background-color: #3498DB !important;
+        background-color: #444644 !important;
     }
 
     .main-border-color {
-        border-color: #3498DB !important;
+        border-color: #444644 !important;
     }
 
 /**************************************
@@ -237,7 +237,7 @@ body {
     }
 
     #preloader {
-        background-color: #050505;
+        background-color: #000000;
     }
 
     .overlay {
@@ -253,7 +253,7 @@ body {
     }
 
     .info {
-        background-color: #111111;
+        background-color: #000000;
     }
 
     .info-menu-icon::before,
@@ -277,7 +277,7 @@ body {
     input:-webkit-autofill:hover,
     input:-webkit-autofill:focus
     input:-webkit-autofill {
-        -webkit-text-fill-color: #3498DB;
+        -webkit-text-fill-color: #444644;
         transition: background-color 5000s ease-in-out 0s;
     }
 
@@ -508,7 +508,7 @@ body {
         logo
     *************************************/
         
-        .logo {
+        .logo-be {
             z-index: 502;
             display: block;
             margin: 0;
@@ -518,7 +518,7 @@ body {
             top: 36px;
         }
 
-        .logo a {
+        .logo-be a {
             display: block;
             margin: 0;
             padding: 0;
@@ -528,7 +528,7 @@ body {
             transition: all 0.3s ease-in-out;
         }
 
-        .logo img {
+        .logo-be img {
             width: 80px;
             height: 80px;
         }
@@ -978,7 +978,7 @@ body {
         }
 
         .info-toggle::after {
-            content: "More Info";
+            content: "Informazioni";
             display: block;
             position: absolute;
             top: 0;
@@ -1051,7 +1051,7 @@ body {
         }
 
         .info-is-visible .info-toggle::after {
-            content: "close";
+            content: "chiudi";
         }
 
 /******************************************************************
@@ -1130,7 +1130,7 @@ body {
         padding: 0px;
     }
 
-    .logo img {
+    .logo-be img {
         width: 60px;
         height: 60px;
     }
