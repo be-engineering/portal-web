@@ -978,7 +978,7 @@ body {
         }
 
         .info-toggle::after {
-            content: "More Info";
+            content: "Informazioni";
             display: block;
             position: absolute;
             top: 0;
@@ -1051,7 +1051,7 @@ body {
         }
 
         .info-is-visible .info-toggle::after {
-            content: "close";
+            content: "chiudi";
         }
 
 /******************************************************************
