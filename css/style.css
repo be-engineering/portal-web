@@ -508,7 +508,7 @@ body {
         logo
     *************************************/
         
-        .logo {
+        .logo-be {
             z-index: 502;
             display: block;
             margin: 0;
@@ -518,7 +518,7 @@ body {
             top: 36px;
         }
 
-        .logo a {
+        .logo-be a {
             display: block;
             margin: 0;
             padding: 0;
@@ -528,7 +528,7 @@ body {
             transition: all 0.3s ease-in-out;
         }
 
-        .logo img {
+        .logo-be img {
             width: 80px;
             height: 80px;
         }
@@ -1130,7 +1130,7 @@ body {
         padding: 0px;
     }
 
-    .logo img {
+    .logo-be img {
         width: 60px;
         height: 60px;
     }
