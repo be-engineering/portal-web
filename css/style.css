@@ -9,7 +9,7 @@
  * @since:2018
  * @see:http://be-engineering.cloud
  *
- * color: #444644
+ * color: #e5a857
  * 
  */
 
@@ -161,20 +161,20 @@ body {
 *************************************/
 
     .main-color {
-        color: #444644 !important;
+        color: #e5a857 !important;
     }
 
     .main-background-color {
-        background-color: #444644 !important;
+        background-color: #e5a857 !important;
     }
 
     .main-before-background-color::before,
     .main-before-background-color::after {
-        background-color: #444644 !important;
+        background-color: #e5a857 !important;
     }
 
     .main-border-color {
-        border-color: #444644 !important;
+        border-color: #e5a857 !important;
     }
 
 /**************************************
@@ -249,7 +249,7 @@ body {
     }
 
     .social span::after {
-        background-color: rgba(255, 255, 255, 0.15);
+        background-color: #e5a857;
     }
 
     .info {
@@ -277,7 +277,7 @@ body {
     input:-webkit-autofill:hover,
     input:-webkit-autofill:focus
     input:-webkit-autofill {
-        -webkit-text-fill-color: #444644;
+        -webkit-text-fill-color: #e5a857;
         transition: background-color 5000s ease-in-out 0s;
     }
 
@@ -645,7 +645,7 @@ body {
             .line {
                 display: block;
                 width: 1px;
-                height: 12rem;
+                height: 22rem;
                 position: absolute;
                 right: 84px;
                 bottom: 0;
